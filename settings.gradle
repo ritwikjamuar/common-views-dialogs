@@ -1,0 +1,3 @@
+rootProject.name = "common-views-dialogs"
+include ':app'
+include ':common_views_dialogs'
